@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product API
 
 This is a simple RESTful API for managing products, built with Node.js and Express. It supports operations to get all products, get a single product by ID, add a new product, update an existing product, and delete a product.
@@ -68,3 +69,6 @@ http://localhost:3000/products/6157e32c-c89f-44f3-abdb-388581f6833b
 ### 5. To delete a specific Product use this API in postman with method DELETE with that specific Product ID 
 
 http://localhost:3000/products/6157e32c-c89f-44f3-abdb-388581f6833b
+=======
+# Task-2-Backend-RestFul-API
+>>>>>>> origin/main
